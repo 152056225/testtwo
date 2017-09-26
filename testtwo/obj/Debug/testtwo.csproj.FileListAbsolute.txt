@@ -1,0 +1,6 @@
+d:\documents\visual studio 2015\Projects\testtwo\testtwo\bin\Debug\testtwo.exe.config
+d:\documents\visual studio 2015\Projects\testtwo\testtwo\bin\Debug\testtwo.exe
+d:\documents\visual studio 2015\Projects\testtwo\testtwo\bin\Debug\testtwo.pdb
+d:\documents\visual studio 2015\Projects\testtwo\testtwo\obj\Debug\testtwo.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\testtwo\testtwo\obj\Debug\testtwo.exe
+d:\documents\visual studio 2015\Projects\testtwo\testtwo\obj\Debug\testtwo.pdb
