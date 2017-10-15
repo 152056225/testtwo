@@ -4,3 +4,9 @@ d:\documents\visual studio 2015\Projects\testtwo\testtwo\bin\Debug\testtwo.pdb
 d:\documents\visual studio 2015\Projects\testtwo\testtwo\obj\Debug\testtwo.csprojResolveAssemblyReference.cache
 d:\documents\visual studio 2015\Projects\testtwo\testtwo\obj\Debug\testtwo.exe
 d:\documents\visual studio 2015\Projects\testtwo\testtwo\obj\Debug\testtwo.pdb
+C:\Users\Administrator\Desktop\testtwo\testtwo\bin\Debug\testtwo.exe.config
+C:\Users\Administrator\Desktop\testtwo\testtwo\bin\Debug\testtwo.exe
+C:\Users\Administrator\Desktop\testtwo\testtwo\bin\Debug\testtwo.pdb
+C:\Users\Administrator\Desktop\testtwo\testtwo\obj\Debug\testtwo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\testtwo\testtwo\obj\Debug\testtwo.exe
+C:\Users\Administrator\Desktop\testtwo\testtwo\obj\Debug\testtwo.pdb
